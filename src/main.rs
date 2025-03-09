@@ -7,6 +7,5 @@ fn main() {
 }
 
 fn print_hello() {
-    println!("Hey! How are you?");
-    println!("BTW I'm great!")
+    println!("Feeling overwhelmed a bit");
 }
