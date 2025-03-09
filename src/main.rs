@@ -3,9 +3,9 @@
 /// Love it
 
 fn main() {
-    print_hello()
+    print_lprompt()
 }
 
-fn print_hello() {
-    println!("Feeling overwhelmed a bit");
+fn print_lprompt() {
+    println!("$ ");
 }
