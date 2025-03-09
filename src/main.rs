@@ -3,6 +3,10 @@
 /// Love it
 
 fn main() {
-    /// Pretend we have fixed a bug
+    print_hello()
+}
+
+fn print_hello() {
     println!("Hey! How are you?");
+    println!("BTW I'm great!")
 }
